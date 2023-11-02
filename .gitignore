@@ -3,8 +3,6 @@
 lib/
 /coverage/
 
-**/dist/*
-/dist/esm/*
 
 # caches
 .eslintcache
